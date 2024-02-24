@@ -5,3 +5,17 @@
 const numArr1 = [1, 2, 3, 4, 5]
 const numArr2 = [6, 7, 8, 9, 10, 11, 12]    
 
+function check(numArr1,numArr2){
+    let len = 0;
+    if(numArr1.length > numArr2.length){
+        len = numArr1.length;
+
+    }
+    else{
+        len= numArr2.length;
+    }
+    for(let idx =0;idx <len;idx++){
+        console.log(numArr1[idx],numArr2[idx]);
+    }
+}
+check(numArr1,numArr2);
