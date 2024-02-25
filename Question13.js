@@ -5,3 +5,9 @@
 
 const strArr = ["banana", "apple", "orange", "grape", "kiwi"];
 
+let concatenatedString = "";
+
+for(let i = 0; i <strArr.length; i++){
+    concatenatedString += strArr[i];
+}
+console.log(concatenatedString);

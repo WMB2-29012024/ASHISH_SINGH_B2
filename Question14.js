@@ -5,3 +5,9 @@
 
 const strArr = ["banana", "apple", "orange", "grape", "kiwi"];
 
+for(let i = 0; i<strArr.length; i++){
+if(strArr[i][0] === "a"){
+    console.log(strArr[i]);
+}
+
+}
