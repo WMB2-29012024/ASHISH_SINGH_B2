@@ -6,4 +6,5 @@
 // Use the .charAt() method with a positive index;
 
 const string = "Hello, World!"
+
 console.log(string.charAt(2))
