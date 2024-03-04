@@ -4,3 +4,5 @@
 */
 
 // Use the .toLowerCase() method
+const string =  "A NEW STRING WITH WORDS."
+console.log(string.toLowerCase())

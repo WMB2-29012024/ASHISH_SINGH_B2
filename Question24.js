@@ -4,3 +4,5 @@
 */
 
 // Use the .includes() method
+const string = "A new string with words."
+console.log(string.includes("STRING"))

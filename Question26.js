@@ -4,3 +4,6 @@
 */
 
 // Use the .trimEnd() method
+const string = "   Hello, World!   "
+
+console.log(string.trimEnd())

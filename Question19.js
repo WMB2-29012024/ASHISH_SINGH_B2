@@ -4,3 +4,6 @@
 */
 
 // Use the .slice() method
+const string = "A new string with words."
+
+console.log(string.slice(6,17))

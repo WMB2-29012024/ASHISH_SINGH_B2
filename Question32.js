@@ -4,3 +4,5 @@
 */
 
 // Use the .search() method
+const string = "Hello, World!"
+console.log(string.search("e"))

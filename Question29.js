@@ -3,4 +3,7 @@
 /* Question 29: Retrieve the character at index 2 from the string "Hello, World!".
 */
 
-// Use the .charAt() method with a positive index
+// Use the .charAt() method with a positive index;
+
+const string = "Hello, World!"
+console.log(string.charAt(2))

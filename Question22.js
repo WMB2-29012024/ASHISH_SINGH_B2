@@ -4,3 +4,6 @@
 */
 
 // Use the .startsWith() method
+const string = "A new string with words."
+
+console.log(string.startsWith("A"))

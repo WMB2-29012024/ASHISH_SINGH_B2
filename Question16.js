@@ -4,3 +4,6 @@
 */
 
 // Use the .split() method
+const string = "A new string with words."
+
+console.log(string.split(""))

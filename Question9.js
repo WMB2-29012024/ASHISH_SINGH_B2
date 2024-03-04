@@ -2,5 +2,5 @@
       
 /* Question 9: Check if the value 2589 is not a number (NaN) using the isNaN() method.
 */
-
-
+const value = 2589
+console.log(isNaN(value))

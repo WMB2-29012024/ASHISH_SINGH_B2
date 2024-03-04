@@ -4,3 +4,6 @@
 */
 
 // Use the .substring() method
+const string = "A new string with words."
+
+console.log(string.substring(2,12))

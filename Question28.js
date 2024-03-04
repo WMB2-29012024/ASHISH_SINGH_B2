@@ -4,3 +4,6 @@
 */
 
 // Use the .at() method with a negative index
+const string = "Hello, World!"
+
+console.log(string.at(-3))

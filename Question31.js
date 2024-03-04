@@ -4,3 +4,5 @@
 */
 
 // Use the .codePointAt() method
+const string = "Hello, World!"
+console.log(string.codePointAt(0))

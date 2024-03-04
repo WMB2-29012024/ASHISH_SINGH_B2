@@ -2,5 +2,5 @@
       
 /* Question 7: check and log if the value 10 is an integer using the .isInteger() method.
 */
-
-
+const number = 10
+console.log(Number.isInteger(number))

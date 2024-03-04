@@ -3,4 +3,7 @@
 /* Question 23: Check if the string "A new string with words." includes the substring "string" using the correct method.
 */
 
-// Use the .includes() method
+// Use the .includes() me
+const string = "A new string with words."
+
+console.log(string.includes("string"))

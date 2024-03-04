@@ -2,5 +2,5 @@
       
 /* Question 8: Check and log if the value "hello" is not a number (NaN) using the isNaN() method.
 */
-
-
+const value = "hello"
+console.log(isNaN(value))

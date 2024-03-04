@@ -4,3 +4,6 @@
 */
 
 // Use the .toUpperCase() method
+const string = "a new string with words." 
+
+console.log(string.toUpperCase())

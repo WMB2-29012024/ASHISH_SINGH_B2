@@ -3,4 +3,5 @@
 /* Question 11: Log the maximum safe integer value in JavaScript by using Number.MAX_SAFE_INTEGER method
 */
 
+console.log(Number.MAX_SAFE_INTEGER)
 
