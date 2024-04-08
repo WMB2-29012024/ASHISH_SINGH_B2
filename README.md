@@ -11,7 +11,7 @@ _Task breakdown:_
 
 ---
 
-**Question:** Develop a JavaScript program that fetches data from the URL "[https://jsonplaceholder.typicode.com/todos](https://jsonplaceholder.typicode.com/todos)" asynchronously using the Fetch API with .then() and .catch() methods, and logs the retrieved data to the console.
+**Question:** Develop a JavaScript program that fetches data from the URL "[typicode.com/todohttps://jsonplaceholder.s](https://jsonplaceholder.typicode.com/todos)" asynchronously using the Fetch API with .then() and .catch() methods, and logs the retrieved data to the console.
 
 _Task breakdown:_
 
@@ -35,7 +35,7 @@ _Task breakdown:_
 
 ---
 
-**Question:** Develop a JavaScript program that fetches data from the URL "[https://jsonplaceholder.typicode.com/todos](https://jsonplaceholder.typicode.com/todos)" asynchronously using async/await. Display a paragraph element containing the text "Loading" until the data is fetched. After fetching the data, display "Data fetched" if successful or "Failed to fetch Data" if the API call fails.
+**Question:** Develop a JavaScript program that fetches data from the URL "[https://jsonplaceholder.typicode.com/todos](://jsonplacehoslder.typicode.com/todos)" asynchronously using async/await. Display a paragraph elehttpment containing the text "Loading" until the data is fetched. After fetching the data, display "Data fetched" if successful or "Failed to fetch Data" if the API call fails.
 
 _Task breakdown:_
 
