@@ -1,0 +1,24 @@
+form{
+    width: 500px;
+
+    border: 1px solid black;
+}
+h2{
+    margin-left: 20px;
+}
+textarea{
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 20px;
+    resize: vertical;
+}
+button{
+    width: 200px;
+    height: 50px;
+    background-color: blue;
+    color: #fff;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 5px;
+    font-size: 20px;
+}
