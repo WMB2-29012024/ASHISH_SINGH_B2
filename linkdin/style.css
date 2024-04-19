@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  header {
+    height: 52px;
+    border: 1px solid black;
+  }
+  
+  .container {
+    width: 1178px;
+    display: flex;
+    margin: 24px auto 0;
+    border: 1px solid black;
+    height: 500px;
+    > section {
+      flex: 1;
+  
+      > .profile-banner {
+        height: 201px;
+        border: 1px solid green;
+        width: 804px;
+        position: relative;
+       > .background-image{
+        > img{
+              /* object-fit: ; */
+              height: 201px;
+              width: 100%;
+        }
+       }
+  
+        > #edit-btn {
+          position: absolute;
+          right: 5px;
+          top: 5px;
+          width: 40px;
+          height: 40px;
+          border-radius: 50%;
+          z-index: 10;
+        }
+        > label {
+          position: absolute;
+          right: 0px;
+          top: 5px;
+          width: 40px;
+          height: 40px;
+          z-index: 15;
+          border-radius: 50%;
+        }
+        > #imageInput {
+          /* display: none; */
+        }
+        > .profile-pic{
+       >img{
+          width: 82px;
+          height: 82px;
+          border-radius: 50%;
+          position: absolute;
+          bottom:0px;
+          margin-left: 20px;
+       }
+        }
+      }
+      > .profile-pic  img{
+       
+        width: 82px;
+        height: 82px;
+        border-radius: 50%;
+        position: absolute;
+        bottom:0px;
+        margin-left: 60px;
+      }
+    
+      
+       
+          
+        
+      
+    }
+    > aside {
+      width: 300px;
+    }
+  }
