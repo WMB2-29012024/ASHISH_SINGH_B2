@@ -10,24 +10,14 @@
 // import Task11 from'./tasks/task11/task';
 // import Task12 from'./tasks/task12/task';
 // import Task13 from'./tasks/task13/task';
-import Task14 from './tasks/task14/task';
+// import Task14 from './tasks/task14/task';
+import Task15 from "./tasks/task15/Task";
+
 function App() {
   return (
     <div>
-      {/* <Task />
-      <Task2 />
-      <Task3 />
-      <Task5/>
-      <Task6/>
-      <Task7/>
-      <Task8 />
-      <Task9/>
-      <Task10/>
-      <Task11/>
-      <Task12 />
-      <Task13 /> */}
-      <Task14/>
-
+     
+      <Task15/>
     </div>
   );
 }
