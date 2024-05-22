@@ -1,0 +1,28 @@
+.show-entry{
+    display: flex;
+    gap: 12px;
+    height: 31px;
+    align-items: center;
+
+   
+}
+.show-entry p{
+    width: 34px;
+    height: 15px;
+    font-weight: 500;
+    line-height: 14.5px;
+    font-size: 15px;
+}
+#select select{
+width: 43px;
+height: 31px;
+padding: 8px 9px 8px 9px;
+gap: 4px;
+border-radius: 8px;
+opacity: 0px;
+justify-content: center;
+display: flex;
+align-items: center;
+background: #E0E0E0;
+color: #000;
+}
