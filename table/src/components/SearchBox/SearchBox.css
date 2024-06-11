@@ -1,0 +1,24 @@
+.search-box{
+    width: 218px;
+height: 32px;
+padding: 8px 9px 8px 9px;
+align-items: center;
+border-radius: 8px;
+border: 1px solid black;
+display: flex;
+gap: 8px;
+
+}
+.search-box input{
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 14.63px;
+    text-align: left;
+    width: 176px;
+    height: 15px;
+    color:#9E9E9E;
+    border: none;
+    outline: none;
+     
+}

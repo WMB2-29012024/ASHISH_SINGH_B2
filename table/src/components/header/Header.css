@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    width: 1110px;
+    height: 64px;
+    padding: 16px 0px 0px 0px;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+  }
+  .left-aside {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+  }
